@@ -1,2 +1,2 @@
-server:
-  port: 3345
+config:
+  info: "Try to make it all right"
